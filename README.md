@@ -36,3 +36,19 @@ To get started with this project:
 ![alt text](image-4.png)
 
 6. Push changes and publish new Branch using git push origin featurebranch
+![alt text](image-5.png)
+
+7. We have a new Branch now with our changes and we will create a pull request to the main branch.
+![alt text](image-6.png)
+
+8. Changes and additons made to index.HTML file 
+![alt text](image-7.png)
+
+9. Merging our changes to the Main Branch
+![alt text](image-8.png)
+
+No conflicts
+![alt text](image-9.png)
+
+Successfully merged and we cnan choose to delete the branch but I will keep this.
+![alt text](image-10.png)
