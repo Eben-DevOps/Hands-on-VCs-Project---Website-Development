@@ -18,5 +18,21 @@ This project demonstrates how developers collaborate using Git. It covers essent
 To get started with this project:
 1. Clone the repository:  
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Eben-DevOps/Hands-on-VCs-Project---Website-Development.git
    ```
+
+2. Navigate into the project directory:
+```bash
+   cd Hands-on-VCs-Project---Website-Development
+```
+
+3. Make a change to the Index.html file and cofirm the change on git status
+![alt text](image-2.png)
+
+4. Checkout changes to a new feature branch to not add directly to the main.
+![alt text](image-3.png)
+
+5. Commit to the changes to the new feature branch
+![alt text](image-4.png)
+
+6. Push changes and publish new Branch using git push origin featurebranch
